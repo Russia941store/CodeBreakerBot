@@ -1,0 +1,9 @@
+# Игнорирование важных файлов
+config.py
+.env
+*.pyc
+__pycache__/
+venv/
+.idea/
+.vscode/
+.DS_Store
